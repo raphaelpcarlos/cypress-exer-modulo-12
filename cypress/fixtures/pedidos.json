@@ -1,0 +1,26 @@
+[
+    {
+        "quantidade": 3,
+        "produto": "Balboa Persistence Tee",
+        "size": "S",
+        "cor": "Green",
+        "page": 3      
+    },
+
+    {
+        "quantidade": 2,
+        "produto": "Atlas Fitness Tank",
+        "size": "S",
+        "cor": "Blue"  ,
+        "page": 2          
+    },
+
+    {
+        "quantidade": 1,
+        "produto": "Arcadio Gym Short",
+        "size": "33",
+        "cor": "Red" ,
+        "page": 2      
+        
+    }
+]
